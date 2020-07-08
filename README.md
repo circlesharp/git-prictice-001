@@ -4,6 +4,9 @@ the content is about the files which branch test owns.
 I am in windows now.
 I do sth in it.
 
+I now some one (of course, it's me) do some edit in this file at the same time.
+I want my string after the guy.
+
 what if I do some edit before I pull the Linux's one?
 would if fast-forward? 
 
