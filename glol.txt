@@ -1,0 +1,24 @@
+* [31m9cc3b60[m -[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest[m[33m, [m[1;31morigin/test[m[33m)[m[m branch test has a special README.md file. [32m(5 minutes ago) [1;34m<circlesharp>[m
+* [31m53bc764[m -[m a text in the branch-test [32m(3 days ago) [1;34m<circlesharp>[m
+*   [31m0bfb232[m -[m figure the conflict [32m(3 days ago) [1;34m<circlesharp>[m
+|\  
+| * [31m8952c1d[m -[m f7 [32m(3 days ago) [1;34m<circlesharp>[m
+| * [31m1c0cf6e[m -[m I don't think I can figure the reset or revert! (I use `git commit --amend` and change the period to !) (Now I modified the index.html, and use `--amend` again.) [32m(4 days ago) [1;34m<circlesharp>[m
+* |   [31m6dddcc3[m -[m figure out the conflict before the merge [32m(3 days ago) [1;34m<circlesharp>[m
+|\ \  
+| * | [31m2ae042b[m -[m not-config is belong to branch test. [32m(3 days ago) [1;34m<circlesharp>[m
+| * | [31m591d6ea[m -[m t9(not m9) [32m(3 days ago) [1;34m<circlesharp>[m
+* | | [31m395f3a3[m -[m h1 [32m(3 days ago) [1;34m<circlesharp>[m
+* | | [31mfdee98c[m -[m m9 [32m(3 days ago) [1;34m<circlesharp>[m
+|/ /  
+* | [31m3d65047[m -[33m ([m[1;33mtag: v0.0.2-lw[m[33m)[m[m m8: for the lightweight-tag [32m(3 days ago) [1;34m<circlesharp>[m
+* | [31mdd61cd8[m -[33m ([m[1;33mtag: v0.0.1[m[33m)[m[m m7: skip the staging-area [32m(4 days ago) [1;34m<circlesharp>[m
+* | [31ma283a4f[m -[m This is the m6, I just remove the m5, because I don't think m5 is necessary. [32m(4 days ago) [1;34m<circlesharp>[m
+* | [31mdbf02bd[m -[m i donot add the unstaged; [32m(4 days ago) [1;34m<circlesharp>[m
+|/  
+* [31mcda135c[m -[m f2 [32m(5 days ago) [1;34m<circlesharp>[m
+* [31m2f225bc[m -[m f1 [32m(5 days ago) [1;34m<circlesharp>[m
+* [31m893003b[m -[m m4 [32m(5 days ago) [1;34m<circlesharp>[m
+* [31m65e703a[m -[m m3 [32m(5 days ago) [1;34m<circlesharp>[m
+* [31m25d74d5[m -[m m2 [32m(5 days ago) [1;34m<circlesharp>[m
+* [31mb9ec565[m -[33m ([m[1;33mtag: v0.0.0-lw[m[33m)[m[m m1 [32m(5 days ago) [1;34m<circlesharp>[m
