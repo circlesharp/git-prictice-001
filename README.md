@@ -4,6 +4,9 @@ the content is about the files which branch test owns.
 I am in windows now.
 I do sth in it.
 
+what if I do some edit before I pull the Linux's one?
+would if fast-forward? 
+
 total 16K
 drwxr-xr-x 2 root root 4.0K Jul  8 22:37 feat
 -rw-r--r-- 1 root root    8 Jul  8 22:37 ignore
