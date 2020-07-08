@@ -15,6 +15,9 @@ the content is about the files which branch test owns.
 I am in windows now.
 I do sth in it.
 
+I now some one (of course, it's me) do some edit in this file at the same time.
+I want my string after the guy.
+
 total 16K
 drwxr-xr-x 2 root root 4.0K Jul  8 22:37 feat
 -rw-r--r-- 1 root root    8 Jul  8 22:37 ignore
