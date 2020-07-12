@@ -10,3 +10,6 @@ drwxrwx---+ 1 Lenovo None    0 7月  10 21:31 feat
 -rwxrwx---+ 1 Lenovo None    0 7月  11 12:06 m2.txt
 -rwxrwx---+ 1 Lenovo None   54 7月   7 00:27 not-config.md
 -rwxrwx---+ 1 Lenovo None  644 7月  12 11:02 README.md
+
+test stash(it shoult staged.)
+
